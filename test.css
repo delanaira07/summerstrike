@@ -1,0 +1,41 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    text-align: center;
+    color: rgb(18, 1, 128);
+}
+h3{
+    color: darkslateblue;
+    font-size:xx-large;
+}
+.drama{
+    font-size:x-large;
+}
+.episode{
+    font-size:x-large;
+}
+.genre{
+    font-size:x-large;
+}
+.rilis{
+    font-size:x-large;
+}
+.sutradara{
+    font-size:x-large;
+}
+.penulis{
+    font-size:x-large;
+}
+.sinopsis{
+    font-size:x-large;
+}
+.pemeran{
+    font-size: x-large;
+}
+.nonton{
+    font-size: x-large;
+}
+.kirim{
+    font-size: large;
+}
